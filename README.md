@@ -29,7 +29,7 @@
 
 - 전체 ERD
 
-![image-20200629223542595](images/image-20200629223542595.png)
+  ![image-20200629223542595](images/image-20200629223542595.png)
 
 - 내가 맡은 테이블 ERD
 
@@ -58,6 +58,7 @@
     
 ## 5. 최종발표
 https://github.com/sonic247897/T4IR_Naklini_PJT 팀 프로젝트 소스코드
+
 https://github.com/sonic247897/fishingApp-project/tree/master/fishingApp-R 전처리 코드(인코딩, 크롤링)
 
 
